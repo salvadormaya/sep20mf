@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 modificado por salvador
 =======
 <<<<<<< HEAD
@@ -16,3 +17,10 @@ ejemplo1
 linea agregada por JMC
 
 >>>>>>> juan
+=======
+modificado por salvador
+=======
+modificado por Angeles
+
+>>>>>>> 323baa07c8d1deaef868a38168334601747160d8
+>>>>>>> angeles
