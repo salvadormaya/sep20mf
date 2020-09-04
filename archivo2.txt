@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 modificado por salvador
+=======
+modificado por Angeles
+
+>>>>>>> 323baa07c8d1deaef868a38168334601747160d8
