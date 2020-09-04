@@ -1,5 +1,11 @@
 <<<<<<< HEAD
 modificado por salvador
 =======
+<<<<<<< HEAD
 modificado por salvador desde rama salvador
 >>>>>>> salvador
+=======
+echo por sebastian 
+
+>>>>>>> 063522b44efd0269e2322ca6b3136b02f37a42af
+>>>>>>> sebastian
