@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modificado por salvador
+=======
+modificado por salvador desde rama salvador
+>>>>>>> salvador
